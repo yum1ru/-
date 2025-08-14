@@ -1,2 +1,3 @@
 # -
-このターゲット練習アプリに問題はないです
+There's absolutely nothing wrong with this Target Practice
+
